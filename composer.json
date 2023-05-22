@@ -1,0 +1,20 @@
+{
+    "name": "350org/blogtemplates-3p",
+    "description": "Fork of the legacy plugin Blog Templates",
+    "version": "1.0.0",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/350org/blogtemplates-3p",
+    "authors": [
+        {
+            "name": "wpmudev",
+            "homepage": "https://wpmudev.com/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.0"
+    }
+}
